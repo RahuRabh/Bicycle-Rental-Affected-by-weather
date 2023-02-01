@@ -1,3 +1,3 @@
 # Bicycle-Rental-Affected-by-weather
 
-Go to `Go in` folder to see the solution
+Go to [`Get in`](https://github.com/RahuRabh/Bicycle-Rental-Affected-by-weather/tree/master/get%20in) folder to see the solution
